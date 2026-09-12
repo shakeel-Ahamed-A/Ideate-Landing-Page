@@ -4,7 +4,7 @@ Signal / 30 is an independent landing-page concept for Techfest IIT Bombay. It p
 
 ## Preview
 
-![Techfest Signal / 30 homepage](docs/screenshots/Screenshot 2026-09-12 181200.png)
+![Techfest Signal / 30 homepage]!(docs/screenshots/Screenshot 2026-09-12 181200.png)
 
 ## Concept
 
